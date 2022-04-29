@@ -7,6 +7,16 @@
     'Lucida Sans', Arial, sans-serif;
 }
 
+#output {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 3rem;
+  margin-top: 2rem;
+
+}
+
 /* Mobile first */
 .wrapper {
   min-height: 100vh;
